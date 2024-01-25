@@ -23,6 +23,10 @@ footer {
         padding: 20px;
       }
 
+ol {
+    text-align: center
+}
+
 li {
     background-color: yellow;
     width: 40%;
