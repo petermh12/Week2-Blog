@@ -13,20 +13,17 @@ footer {
         font-size: 35px;
         color: blue;
       }
-      
-      /* Create two columns/boxes that floats next to each other */
+
       nav {
         float: left;
         width: 20%;
         height: 20%;
-        background: rgb(50, 215, 226);
         padding: 20px;
       }
 
 ol {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin-right: 500px;
 }
 
 li {
