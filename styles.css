@@ -18,7 +18,7 @@ footer {
       nav {
         float: left;
         width: 20%;
-        height: 300px; /* only for demonstration, should be removed */
+        height: 20%
         background: rgb(50, 215, 226);
         padding: 20px;
       }
