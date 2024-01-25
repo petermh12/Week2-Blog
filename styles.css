@@ -17,7 +17,7 @@ footer {
       /* Create two columns/boxes that floats next to each other */
       nav {
         float: left;
-        width: 30%;
+        width: 20%;
         height: 300px; /* only for demonstration, should be removed */
         background: rgb(50, 215, 226);
         padding: 20px;
@@ -32,4 +32,9 @@ li {
     background-color: green;
     display: inline;
 }
-      
+
+img {
+    width: 300px;
+    height: 400px;
+}
+    
