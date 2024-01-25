@@ -25,18 +25,15 @@ footer {
 
 li {
     background-color: yellow;
+    width: 40%
 }
 
 .trips {
     text-align: center;
     background-color: green;
-    display: inline;
+    display: block;
     margin-left: auto;
     margin-right: auto;
 }
 
-img {
-    width: 15%;
-    height: 18%;
-}
     
