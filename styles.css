@@ -24,7 +24,9 @@ footer {
       }
 
 ol {
-    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 li {
@@ -34,7 +36,7 @@ li {
 
 .trips {
     text-align: center;
-    background-color: green;
+    background-color: rgb(113, 183, 113);
     display: block;
     margin-left: auto;
     margin-right: auto;
