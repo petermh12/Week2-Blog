@@ -25,7 +25,7 @@ footer {
 
 li {
     background-color: yellow;
-    width: 40%
+    width: 40%;
 }
 
 .trips {
@@ -34,6 +34,12 @@ li {
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+img {
+
+    width: 15%;
+    height: 18%;
 }
 
 #peter {
