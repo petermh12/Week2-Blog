@@ -1,0 +1,35 @@
+footer {
+    background-color: #777;
+    padding: 10px;
+    text-align: center;
+    color: white;
+  }
+
+    /* Style the header */
+    header {
+        background-color: #666;
+        padding: 30px;
+        text-align: center;
+        font-size: 35px;
+        color: white;
+      }
+      
+      /* Create two columns/boxes that floats next to each other */
+      nav {
+        float: left;
+        width: 30%;
+        height: 300px; /* only for demonstration, should be removed */
+        background: rgb(50, 215, 226);
+        padding: 20px;
+      }
+
+li {
+    background-color: yellow;
+}
+
+.trips {
+    text-align: center;
+    background-color: green;
+    display: inline;
+}
+      
